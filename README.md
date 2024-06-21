@@ -1,4 +1,4 @@
-# Geometria-Anal-tica
+# Geometria-Analítica
 Este é um repositório que contém todo o conteúdo de Geometria Analítica.
 Nele estão contindos:
 O material semanal fornecido pelo professor.
